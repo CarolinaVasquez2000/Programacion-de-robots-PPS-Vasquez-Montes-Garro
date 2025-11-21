@@ -22,3 +22,5 @@ Proyecto de programacion de robots para las practicas profesionalizantes supervi
 - Martin Gonzalez
 - Matías Hirak
 - Alejandro Simoncelli
+- Mauro Maceda
+- Cristian Lukaszewicz
